@@ -9,7 +9,7 @@ Sou um criador multidisciplinar com foco em tecnologia, design e produção de c
 
 ## 🧠 Sobre mim
 
-- Medalha de prata em campeonato de programação  
+- Medalha de prata na OPI (Olimpíada Paraibana de informática) 2021  
 - Perfil autodidata  
 - Facilidade com tecnologia e aprendizado rápido  
 - Interesse em desenvolvimento, design e criação de conteúdo  
@@ -72,5 +72,6 @@ Resumo curto (2 linhas)
 ## 📬 Contato
 
 📧 lucast.ezequiel@gmail.com  
-🔗 LinkedIn: [link]  
+🔗 LinkedIn: www.linkedin.com/in/
+lusca-tavares-7251b43ba 
 🔗 GitHub: https://github.com/LucasTavares-gh
