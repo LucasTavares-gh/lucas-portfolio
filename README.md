@@ -72,6 +72,5 @@ Resumo curto (2 linhas)
 ## 📬 Contato
 
 📧 lucast.ezequiel@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/
-lusca-tavares-7251b43ba 
+🔗 LinkedIn: www.linkedin.com/in/lusca-tavares-7251b43ba 
 🔗 GitHub: https://github.com/LucasTavares-gh
